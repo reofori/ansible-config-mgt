@@ -301,6 +301,7 @@ We have Implemented
 ![image](https://github.com/user-attachments/assets/328f57c5-3912-4107-9275-67594e3e7f34)
 
 
+
 ## Conclusion:
 
 The Ansible Configuration Management Automation Project successfully demonstrated the power and versatility of Ansible in automating various tasks across multiple servers. By leveraging Ansible's playbooks and roles, we were able to streamline the configuration management process, ensuring consistent and repeatable deployments.
